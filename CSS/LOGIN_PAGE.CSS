@@ -1,0 +1,212 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: 'Poppins', sans-serif;
+}
+.head1{
+    color: aliceblue;
+    padding: 5px;
+    font-size: 50px;
+}
+.ta1{
+    height: 280px;
+    width:300px;
+    border:groove ;
+    border-radius: 9px;
+    border-color:black;
+}
+.ta2{
+    height:250px;
+    width: 120px;
+    border:groove;
+    border-radius: 9px;
+    border-color:black;
+}
+th,td{
+    padding: 10px;
+}
+body{
+    background: linear-gradient();
+    height: 120vh;
+}
+.space{
+    padding-top: 160px;
+}
+.fo{
+    height: 160px;
+    width: 330px;
+    border:groove ;
+    border-radius: 9px;
+    border-color:black;
+    padding: 10px;
+    color: whitesmoke;
+}
+.fo1{
+    height:500px;
+    width: 310px;
+    border:groove ;
+    border-radius: 9px;
+    border-color:black;
+    padding: 10px;
+}
+#hd{
+    color: aliceblue;
+}
+#si{
+    width: 300px;
+}
+#si1{
+    width: 100px;
+}
+
+.img1{
+    border-radius: 30%;
+    height: 150px;
+    padding: 30PX;
+    width: 150px;
+}
+
+.ts h4{
+    font-size: 20px;
+    font-style: oblique;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    text-align: center;
+}
+input{
+    height: 30px;
+    width: 300px;
+    font-size: 18px;
+}
+.para{
+    font-size: 25px;
+    text-align: center;
+    color: aliceblue;
+}
+.para1{
+    font-size: 18px;
+    text-align: center;
+    margin-top: 0px;
+}
+.check{
+    width: 15px;
+    font-size: 10px;
+}
+.back{
+    height: 20px;
+    width: 50px;
+    background-color: gold;
+}
+.ts a{
+    color: beige;
+}
+.ts a:hover{
+        text-decoration: underline;
+}
+h3{
+    font-size: 30px;
+    }
+.back1{
+    background-image: url(/HTML/BACKGROUND_images/SONGS_BK_IMG6.jp);
+    background-size: cover;
+    background-color: rgb(40, 40, 43);
+    background-attachment: fixed;
+}
+.clr{
+    color: aliceblue;
+    font-size: 18px; 
+    font-family: cursive;
+}
+.clr2{
+    color: beige;
+    font-style: oblique;
+}
+.back2{
+    background-size: cover;
+    background-color: rgb(40, 40, 43);
+    background-attachment: fixed;
+}
+a{
+    color: aliceblue; 
+    }
+a{
+    text-decoration: none;
+}
+.mus{
+    border:7px solid yellowgreen;
+    border-radius: 34px;
+    margin-left: 5rem;
+}
+audio::-webkit-media-controls-panel{
+    background-color: antiquewhite;    
+}
+h4{
+    margin-left: 20px;
+}
+.img2{
+    height: 300px;
+    width: 500px;
+    margin-left: 40px;
+    margin-top: 30px;
+    border: groove;
+}
+.img3{
+    height: 250px;
+    width: 250px;
+    padding-left: 20px;
+}
+.md{
+    color: antiquewhite;
+    padding-left: 10px;
+}
+.md1{
+    padding-left: 400px;
+    width: 1000px;
+    height: 600px; 
+    position: relative;
+    bottom: 360px;
+}
+#img4{
+    height: 200px;
+    width: 200px;
+    border-radius: 7px;
+}
+.des{
+    box-shadow:0 0 2px cyan;
+}
+.des:active {
+    box-shadow:none;
+    transform: translateY(5px);
+}
+.sign:hover{
+    text-decoration: underline;
+}
+.img5{
+    position: absolute;
+    margin-left: -550px;
+    margin-top: 100px;
+    height: 300px;
+    width: 300px;
+    border-radius: 800px;
+}
+.img6{
+    position: absolute;
+    margin-left: 100px;
+    height: 300px;
+    width: 300px;
+    margin-top: 80px;
+    border-radius: 800px;
+}
+#name1{
+    position: absolute;
+    margin-left: -455px;
+    margin-top: 420px;
+    font-size: 30px;
+    color: whitesmoke;
+}
+#name2{
+    position: absolute;
+    margin-left: 200px;
+    margin-top: 400px;
+    font-size: 30px;
+    color: whitesmoke;
+}
