@@ -33,7 +33,7 @@ body{
     padding-top: 160px;
 }
 .fo{
-    height: 160px;
+    height: 172px;
     width: 330px;
     border:groove ;
     border-radius: 9px;
@@ -42,7 +42,7 @@ body{
     color: whitesmoke;
 }
 .fo1{
-    height:500px;
+    height:520px;
     width: 310px;
     border:groove ;
     border-radius: 9px;
@@ -106,7 +106,6 @@ h3{
     font-size: 30px;
     }
 .back1{
-    background-image: url(/HTML/BACKGROUND_images/SONGS_BK_IMG6.jp);
     background-size: cover;
     background-color: rgb(40, 40, 43);
     background-attachment: fixed;
@@ -172,6 +171,9 @@ h4{
 }
 .des{
     box-shadow:0 0 2px cyan;
+    height: 30px;
+    width: 300px;
+    font-size: large;
 }
 .des:active {
     box-shadow:none;
